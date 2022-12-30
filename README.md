@@ -1,1 +1,1 @@
-# Layoffs2022_analysing
+Exploring and analyzing the layoffs dataset for the year 2022
